@@ -36,6 +36,7 @@ tf
 ---------
 大多都是從遊戲中抓檔案自行修改<_>
 字幕來源(https://forum.gamer.com.tw/Co.php?bsn=05386&sn=121990)
+MVM重生視窗"隱藏"按鈕(https://gist.github.com/sigsegv-mvm/9ae10d5ff6ee1d0d502f/revisions?diff=unified)
 
 
 
