@@ -21,6 +21,7 @@ tf
         ├── materials
         ├── media
         ├── resource
+        ├── sound
         ├── README.md <- 這個可以移除 不會影響
         └── info.vdf
         
