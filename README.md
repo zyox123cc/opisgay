@@ -8,7 +8,7 @@
 
 確保你的custom沒有其他檔案會覆蓋到 再開始使用
 
-1. 按下 `Download ZIP` . 就會開始下載 `opisgay-master.zip`  [或者直接點我](https://github.com/raysfire/rayshud/archive/master.zip)
+1. 按下 `Download ZIP` . 就會開始下載 `opisgay-master.zip`  [或者直接點我](https://github.com/zyox123cc/opisgay/archive/master.zip)
 2. 默認路徑為 `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
    如果不知道請看 (https://imgur.com/JknaF3q)
 3. 解壓縮 .zip 檔案 並放進 `custom` 資料夾.
