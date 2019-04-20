@@ -12,6 +12,7 @@
 2. 默認路徑為 `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
    如果不知道請看 (https://imgur.com/JknaF3q)
 3. 解壓縮 .zip 檔案 並放進 `custom` 資料夾.
+   記得把opisgay-master 後面的 -master 去掉
 4. 最後看起來會是這個樣子:
 ```
 tf
