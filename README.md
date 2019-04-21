@@ -2,7 +2,9 @@
 =======
 
 為Team Fortress 2所做的hud .
-
+[參觀我的網誌](https://zoyx123cc.blogspot.com)
+[Discord群組](https://discord.gg/2bgsmVs)
+[Youtube頻道](https://www.youtube.com/user/a886901)
 
 --------
 
