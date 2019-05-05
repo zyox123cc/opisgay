@@ -1,4 +1,5 @@
 ![alt text](https://imgur.com/qUsdLwn.png)
+![alt text](https://i.imgur.com/xpgi0Nu.png)
 =======
 
 為Team Fortress 2所做的hud .
@@ -10,7 +11,8 @@
 
 1. 按下 `Download ZIP` . 就會開始下載 `opisgay-master.zip`  [或者直接點我](https://github.com/zyox123cc/opisgay/archive/master.zip)
 2. 默認路徑為 `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
-   如果不知道請看 (https://imgur.com/JknaF3q)
+   如果不知道請看  
+   ![alt text](https://i.imgur.com/JknaF3q.png)
 3. 解壓縮 .zip 檔案 並放進 `custom` 資料夾.
    記得把opisgay-master 後面的 -master 去掉
 4. 最後看起來會是這個樣子:
@@ -50,4 +52,4 @@ Youtube https://www.youtube.com/user/a886901
 
 gamebanana https://gamebanana.com/members/1562680
 
-v2019.0503
+v2019.0505
