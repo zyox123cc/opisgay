@@ -1,5 +1,7 @@
 ![alt text](https://imgur.com/qUsdLwn.png)
 ![alt text](https://i.imgur.com/xpgi0Nu.png)
+![alt text](https://cdn.discordapp.com/attachments/575294185985540116/647105774991966218/6a035656f040c05d.PNG)
+![alt text](https://cdn.discordapp.com/attachments/575294185985540116/647105780641693707/2.PNG)
 =======
 
 為Team Fortress 2所做的hud .
@@ -51,4 +53,4 @@ Youtube https://www.youtube.com/user/a886901
 
 gamebanana https://gamebanana.com/members/1562680
 
-v2019.0531 - 改編rayshud
+v2019.11.22 - 改編rayshud
