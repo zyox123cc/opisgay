@@ -45,12 +45,9 @@ MVM重生視窗"隱藏"按鈕(https://gist.github.com/sigsegv-mvm/9ae10d5ff6ee1d
 
 
 
-我的網誌 https://zoyx123cc.blogspot.com
-
-Discord https://discord.gg/2bgsmVs
-
-Youtube https://www.youtube.com/user/a886901
-
-gamebanana https://gamebanana.com/members/1562680
+[blogspot](https://zoyx123cc.blogspot.com/)
+[Discord](https://discord.gg/YCXScQn)
+[Youtube](https://www.youtube.com/user/a886901)
+[gamebanana](https://gamebanana.com/members/1562680)
 
 v2019.11.22 - 改編rayshud
