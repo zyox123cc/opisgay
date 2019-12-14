@@ -1,0 +1,15 @@
+"characters"
+{
+	"basic_pyro"
+	{
+		"image"	"../console/characters/pyro"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_spy"
+	{
+		"image"	"../console/characters/spy"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+	}
+}
