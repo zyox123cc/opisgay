@@ -2,9 +2,8 @@
 ![alt text](https://i.imgur.com/xpgi0Nu.png)
 ![alt text](https://cdn.discordapp.com/attachments/575294185985540116/647105774991966218/6a035656f040c05d.PNG)
 ![alt text](https://cdn.discordapp.com/attachments/575294185985540116/647105780641693707/2.PNG)
-[blogspot](https://zoyx123cc.blogspot.com/)
-[Discord](https://discord.gg/YCXScQn)
-[Youtube](https://www.youtube.com/user/a886901)
+[Discord](https://discord.gg/5RXMpG5)
+[Youtube](https://www.youtube.com/channel/UCdb6gleKN5aTmlKPd4sBJtw/)
 [gamebanana](https://gamebanana.com/members/1562680)
 
 =======
@@ -52,5 +51,4 @@ MVM重生視窗"隱藏"按鈕(https://gist.github.com/sigsegv-mvm/9ae10d5ff6ee1d
 
 
 
-[I'm an inline-style link](https://www.google.com)
-v2019.11.22 - 改編rayshud
+v2020.7.16 - 改編rayshud
